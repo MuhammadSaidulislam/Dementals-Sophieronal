@@ -14,7 +14,7 @@ function Roadmap() {
                                 <h1>Roadmamp</h1>
                             </div>
                             <div className='roadmap'>
-                                <ul class="timeline">
+                                <ul className="timeline">
                                     <li>
                                         <h1>SEASON 01:</h1>
                                         <h2>DISCORD META_RPG</h2>
